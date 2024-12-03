@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "throw garbage",
+        "category": "house_task",
+        "status": "pending"
+    },
+    {
+        "id": 2,
+        "name": "Do homework",
+        "category": "education",
+        "status": "pending"
+    },
+    {
+        "id": 3,
+        "name": "re-do python assignment",
+        "category": "School",
+        "status": "complete"
+    },
+    {
+        "id": 4,
+        "name": "re-do python assignment",
+        "category": "School",
+        "status": "complete"
+    },
+    {
+        "id": 5,
+        "name": "be an idiot",
+        "category": "School",
+        "status": "complete"
+    }
+]
